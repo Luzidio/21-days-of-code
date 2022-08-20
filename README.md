@@ -14,7 +14,7 @@ Challenge created by RocketSeat🚀 that consists of coding for at least 1h a da
 - [x] Create a animated button. <br> <br>
 
 ### 📆 Day 4/21:
-- [ ] Create a calculator. <br> <br>
+- [x] Create a calculator. <br> <br>
 
 ### 📆 Day 5/21:
 - [ ] Develop a custom page that displays the 404 error. <br> <br>
