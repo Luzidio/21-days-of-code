@@ -17,7 +17,7 @@ Challenge created by RocketSeat🚀 that consists of coding for at least 1h a da
 - [x] Create a calculator. <br> <br>
 
 ### 📆 Day 5/21:
-- [ ] Develop a custom page that displays the 404 error. <br> <br>
+- [x] Develop a custom page that displays the 404 error. <br> <br>
 
 ### 📆 Day 6/21:
 - [ ] Create a card with glassmorphism. <br> <br>
