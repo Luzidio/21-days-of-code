@@ -11,7 +11,7 @@ Challenge created by RocketSeat🚀 that consists of coding for at least 1h a da
 - [x] Make a custom Hello World with fonts and images. <br> <br>
 
 ### 📆 Day 3/21:
-- [ ] Create a animated button. <br> <br>
+- [x] Create a animated button. <br> <br>
 
 ### 📆 Day 4/21:
 - [ ] Create a calculator. <br> <br>
