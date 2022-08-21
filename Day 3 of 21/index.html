@@ -2,23 +2,53 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-
-    <link rel="stylesheet" href="assets/css/styles.css" />
-
     <title>Animated Button</title>
+    <link rel="stylesheet" href="./assets/css/bg.css" />
+    <link rel="stylesheet" href="./assets/css/main.css" />
   </head>
   <body>
-    <a href="#" class="button">
-      <span class="button__text"> RocketSeat </span>
-      <img src="assets/img/cone.png" alt="" class="button__cone" />
-      <img src="assets/img/torus.png" alt="" class="button__torus" />
-      <img
-        src="assets/img/icosahedron.png"
-        alt=""
-        class="button__icosahedron"
-      />
-      <img src="assets/img/sphere.png" alt="" class="button__sphere" />
-    </a>
+    <div class="container">
+      <div class="card">
+        <img class="perfil" src="./assets/img/Lz1.0 - Copy.png" alt="" />
+        <h2>Created by <span> Luzídio Rafael</span></h2>
+        <a href="https://luzidio.github.io/Links/" class="button">
+          <span class="button__text"> RocketSeat </span>
+          <img src="assets/img/cone.png" alt="" class="button__cone" />
+          <img src="assets/img/torus.png" alt="" class="button__torus" />
+          <img
+            src="assets/img/icosahedron.png"
+            alt=""
+            class="button__icosahedron"
+          />
+          <img src="assets/img/sphere.png" alt="" class="button__sphere" />
+        </a>
+      </div>
+      <!--Backgound elements-->
+      <div class="elements">
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+      </div>
+      <!--Backgound elements-->
+    </div>
+
+    <script type="text/javascript" src="./assets/js/vanilla-tilt.js"></script>
+    <script type="text/javascript">
+      VanillaTilt.init(document.querySelector('.card'), {
+        max: 15,
+        speed: 400,
+        glare: true,
+        'max-glare': 0.2
+      })
+    </script>
   </body>
 </html>
