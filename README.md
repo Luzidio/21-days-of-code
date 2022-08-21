@@ -20,7 +20,7 @@ Challenge created by RocketSeat🚀 that consists of coding for at least 1h a da
 - [x] Develop a custom page that displays the 404 error. <br> <br>
 
 ### 📆 Day 6/21:
-- [ ] Create a card with glassmorphism. <br> <br>
+- [x] Create a card with glassmorphism. <br> <br>
 
 ### 📆 Day 7/21:
 - [ ] Develop a counter. <br> <br>
