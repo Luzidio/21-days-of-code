@@ -5,40 +5,50 @@
   box-sizing: border-box;
   font-family: 'Poppins', sans-serif;
 }
-
 body {
-  background: linear-gradient(45deg, #8500ff, #5acaff);
-  height: 100vh;
 }
 
-#container {
+.container {
   position: absolute;
-  /*top: 10%;
-  left: 10%;
-  right: 10%;
-  bottom: 10px;
-  border-radius: 10px; */
   width: 100%;
   height: 100%;
   display: flex;
   justify-content: center;
   align-items: center;
-  background: url('/assets/img/p404.png'), #151729;
   box-shadow: 0 15px 30px rgba(0, 0, 0, 0.5);
 }
 
-#container .content {
+.card {
+  width: 180%;
+  min-width: 1020px;
+  color: #fff;
+  text-align: center;
+  padding: 50px 35px;
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  background: rgba(255, 255, 255, 0.2);
+  border-radius: 16px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(5px);
+}
+
+a {
+  text-decoration: none;
+}
+.card .perfil {
+  width: 120px;
+  bottom: 50%;
+}
+.container .card {
   max-width: 600px;
   text-align: center;
 }
 
-#container .content h2 {
-  font-size: 18vw;
+.container .card h2 {
+  font-size: 150px;
   color: #fff;
   line-height: 1em;
 }
-
-#container .content h4 {
+.container .card h4 {
   position: relative;
   font-size: 1.5rem;
   margin-bottom: 20px;
@@ -47,14 +57,15 @@ body {
   font-weight: 300;
   padding: 10px 20px;
   display: inline-block;
+  border-radius: 30px;
 }
 
-#container .content p {
+.container .card p {
   color: #fff;
   font-size: 1.2em;
 }
 
-#container .content a {
+.container .card a {
   position: relative;
   display: inline-block;
   padding: 10px 20px;
