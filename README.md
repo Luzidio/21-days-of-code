@@ -23,4 +23,4 @@ Challenge created by RocketSeat🚀 that consists of coding for at least 1h a da
 - [x] Create a card with glassmorphism. <br> <br>
 
 ### 📆 Day 7/21:
-- [ ] Develop a counter. <br> <br>
+- [x] Develop a counter. <br> <br>
