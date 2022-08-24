@@ -38,28 +38,28 @@ Challenge created by RocketSeat🚀 that consists of coding for at least 1h a da
 
 ### 📆 Day 8/21:
 
-- [] Develop a toggle that changes the theme to light and dark. <br> <br>
+- [ ] Develop a toggle that changes the theme to light and dark. <br> <br>
 
 ### 📆 Day 9/21:
 
-- [] Create a Loading animation. <br> <br>
+- [ ] Create a Loading animation. <br> <br>
 
 ### 📆 Day 10/21:
 
-- [] Use the javascript Particle.js lib. <br> <br>
+- [ ] Use the javascript Particle.js lib. <br> <br>
 
 ### 📆 Day 11/21:
 
-- [] Create the layout of a login form. <br> <br>
+- [ ] Create the layout of a login form. <br> <br>
 
 ### 📆 Day 12/21:
 
-- [] Develop an image gallery. <br> <br>
+- [ ] Develop an image gallery. <br> <br>
 
 ### 📆 Day 13/21:
 
-- [] Develop a responsive menu. <br> <br>
+- [ ] Develop a responsive menu. <br> <br>
 
 ### 📆 Day 14/21:
 
-- [] Create a quiz form. <br> <br>
+- [ ] Create a quiz form. <br> <br>
