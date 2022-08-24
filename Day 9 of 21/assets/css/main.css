@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,900italic,900,700italic,700,500italic,500,400italic,300italic,300,100italic,100');
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  font-family: 'Roboto';
+  background: #011627;
+}
+header {
+  position: absolute;
+  top: 20%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+
+  color: #999;
+}
+
+header a {
+  position: relative;
+  display: inline-block;
+  padding: 10px 20px;
+
+  color: #fff;
+  text-decoration: none;
+  margin-top: 25px;
+  border-radius: 25px;
+  border-bottom: 4px solid #d00d56;
+}
+
+header a:hover {
+  position: relative;
+  display: inline-block;
+  padding: 10px 20px;
+  background: #2ec4b6;
+  color: #fff;
+  text-decoration: none;
+  margin-top: 25px;
+  border-radius: 25px;
+  border-bottom: 4px solid #d00d56;
+}
+.loading {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.text {
+  font-size: 50px;
+  font-weight: 400;
+  text-align: center;
+  color: #999;
+  margin-bottom: 25px;
+}
+.add {
+  animation: animate 0.7s ease-in-out 0.1s;
+}
+@keyframes animate {
+  0% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.2;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+.progress-bar {
+  width: 406px;
+  height: 22px;
+  background: #111;
+  border-radius: 13px;
+  padding: 3px;
+  box-sizing: border-box;
+}
+.progress {
+  width: 203px;
+  height: 16px;
+  background: #f60d54;
+  border-radius: 13px;
+}
+.percent {
+  position: absolute;
+  left: 187px;
+  color: #fdb5ca;
+  font-size: 15px;
+  font-weight: bold;
+  letter-spacing: 1px;
+  line-height: 23px;
+}

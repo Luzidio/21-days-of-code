@@ -42,7 +42,7 @@ Challenge created by RocketSeat🚀 that consists of coding for at least 1h a da
 
 ### 📆 Day 9/21:
 
-- [ ] Create a Loading animation. <br> <br>
+- [x] Create a Loading animation. <br> <br>
 
 ### 📆 Day 10/21:
 
