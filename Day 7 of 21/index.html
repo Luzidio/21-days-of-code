@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Counter</title>
+    <link rel="stylesheet" href="./assets/css/bg.css" />
+    <link rel="stylesheet" href="./assets/css/main.css" />
+  </head>
+  <body>
+    <div class="container">
+      <section class="home">
+        <h1>Counter</h1>
+        <h2>
+          <a href="https://luzidio.github.io/Links/"
+            >Created by <span> Luzídio Rafael</span></a
+          >
+        </h2>
+        <label for="date">Informe uma data</label>
+        <input type="date" id="date" />
+        <button onclick="start()">Iniciar Contagem</button>
+      </section>
+      <section class="contador" style="display: none">
+        <div class="header">
+          <h1>Counter</h1>
+
+          <button onclick="back()">Reiniciar</button>
+        </div>
+        <span>Faltam</span>
+        <div class="wrapper">
+          <div>
+            <span id="days">2</span>
+            <span>Dias</span>
+          </div>
+          <div>
+            <span id="hours">10</span>
+            <span>Horas</span>
+          </div>
+          <div>
+            <span id="minutes">40</span>
+            <span>Minutos</span>
+          </div>
+          <div>
+            <span id="seconds">13</span>
+            <span>Segundos</span>
+          </div>
+        </div>
+      </section>
+      <footer>
+        <p>Luzidio</p>
+      </footer>
+      <div class="elements">
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+      </div>
+    </div>
+    <script src="./assets/js/main.js"></script>
+  </body>
+</html>

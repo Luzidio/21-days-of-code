@@ -43,6 +43,11 @@
   margin: 10px auto;
   max-width: 330px;
 }
+.card .links img {
+  width: 40px;
+
+  margin: 10px 5px;
+}
 
 .btn {
   text-decoration: none;
@@ -58,5 +63,5 @@
 
 .btn:hover {
   color: #fff;
-  background: linear-gradient(to right, rgba(107, 107, 241), #f9004d);
+  background: linear-gradient(to left, rgba(107, 107, 241), #f9004d);
 }
