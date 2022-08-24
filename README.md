@@ -38,7 +38,7 @@ Challenge created by RocketSeat🚀 that consists of coding for at least 1h a da
 
 ### 📆 Day 8/21:
 
-- [ ] Develop a toggle that changes the theme to light and dark. <br> <br>
+- [x] Develop a toggle that changes the theme to light and dark. <br> <br>
 
 ### 📆 Day 9/21:
 
