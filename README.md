@@ -54,7 +54,7 @@ Challenge created by RocketSeat🚀 that consists of coding for at least 1h a da
 
 ### 📆 Day 12/21:
 
-- [ ] Develop an image gallery. <br> <br>
+- [x] Develop an image gallery. <br> <br>
 
 ### 📆 Day 13/21:
 
