@@ -1,6 +1,11 @@
 # 📆 21 days of code 🚀
-
+<div align="center">
+<img src="https://user-images.githubusercontent.com/48757536/187274427-e14d6210-7d8a-4f58-b25c-471c96ba051b.svg" />
+<br>
 Challenge created by RocketSeat🚀 that consists of coding for at least 1h a day every day, for 21 days.
+</div>
+
+
 <br>
 <br>
 
