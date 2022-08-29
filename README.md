@@ -50,7 +50,7 @@ Challenge created by RocketSeat🚀 that consists of coding for at least 1h a da
 
 ### 📆 Day 11/21:
 
-- [ ] Create the layout of a login form. <br> <br>
+- [x] Create the layout of a login form. <br> <br>
 
 ### 📆 Day 12/21:
 
