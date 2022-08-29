@@ -24,7 +24,7 @@ Challenge created by RocketSeat🚀 that consists of coding for at least 1h a da
 
 - [x] Make a custom Hello World with fonts and images. <br> <br>
 <div>
-  <img src="https://user-images.githubusercontent.com/48757536/187270565-d3218a1f-4c2a-47a7-add2-1ec35dbba260.jpg.jpg" width="200" height="200"/>
+  <img src="https://user-images.githubusercontent.com/48757536/187270565-d3218a1f-4c2a-47a7-add2-1ec35dbba260.jpg" width="200" height="200"/>
 </div>
 
 ### 📆 Day 3/21:
