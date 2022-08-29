@@ -5,34 +5,62 @@ Challenge created by RocketSeat🚀 that consists of coding for at least 1h a da
 <br>
 
 ## Challenge - Part 1
+<div>
+  <img src="https://user-images.githubusercontent.com/48757536/187269994-3d52c9a3-f89a-4b9a-a12c-63ce1ca7df55.jpg" width="200" height="200"/>
+
+<img src="https://user-images.githubusercontent.com/48757536/187270267-81f3c4a8-405b-47bf-99ce-8c8735a27158.jpg" width="200" height="200"/>
+
+</div>
+
 
 ### 📆 Day 1/21:
 
 - [x] Create a repository to list the projects that will be developed during the 21 days of code. <br> <br>
+<div>
+<img src="https://user-images.githubusercontent.com/48757536/187270407-cb1ebd83-ebaf-4eae-8c41-88203b5144ab.jpg" width="200" height="200"/>
+</div>
 
 ### 📆 Day 2/21:
 
 - [x] Make a custom Hello World with fonts and images. <br> <br>
+<div>
+  <img src="https://user-images.githubusercontent.com/48757536/187270565-d3218a1f-4c2a-47a7-add2-1ec35dbba260.jpg.jpg" width="200" height="200"/>
+</div>
 
 ### 📆 Day 3/21:
 
 - [x] Create a animated button. <br> <br>
+<div>
+  <img src="https://user-images.githubusercontent.com/48757536/187270667-73990a47-0ca6-4fbc-9237-061408125012.jpg" width="200" height="220"/>
+</div>
 
 ### 📆 Day 4/21:
 
 - [x] Create a calculator. <br> <br>
+<div>
+  <img src="https://user-images.githubusercontent.com/48757536/187270836-aa99fbea-0f65-4e99-b366-f85a478085ae.jpg" width="200" height="220"/>
+</div>
 
 ### 📆 Day 5/21:
 
 - [x] Develop a custom page that displays the 404 error. <br> <br>
+<div>
+  <img src="https://user-images.githubusercontent.com/48757536/187271305-4f631630-e7e3-493e-ac00-11367a2bc7b2.jpg" width="200" height="220"/>
+</div>
 
 ### 📆 Day 6/21:
 
 - [x] Create a card with glassmorphism. <br> <br>
+<div>
+  <img src="https://user-images.githubusercontent.com/48757536/187271521-774e66da-efb7-4fe2-8be6-1d06fcf58040.jpg" width="200" height="220"/>
+</div>
 
 ### 📆 Day 7/21:
 
 - [x] Develop a counter. <br> <br>
+<div>
+  <img src="https://user-images.githubusercontent.com/48757536/187271605-11698c9b-bb0f-4f71-a158-5e59117e96ed.jpg" width="200" height="220"/>
+</div>
 
 ## Challenge - Part 2
 <div>
