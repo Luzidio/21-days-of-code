@@ -62,4 +62,4 @@ Challenge created by RocketSeat🚀 that consists of coding for at least 1h a da
 
 ### 📆 Day 14/21:
 
-- [ ] Create a quiz form. <br> <br>
+- [x] Create a quiz form. <br> <br>
