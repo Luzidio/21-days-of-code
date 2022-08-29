@@ -58,7 +58,7 @@ Challenge created by RocketSeat🚀 that consists of coding for at least 1h a da
 
 ### 📆 Day 13/21:
 
-- [ ] Develop a responsive menu. <br> <br>
+- [x] Develop a responsive menu. <br> <br>
 
 ### 📆 Day 14/21:
 
