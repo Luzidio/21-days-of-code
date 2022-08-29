@@ -35,6 +35,11 @@ Challenge created by RocketSeat🚀 that consists of coding for at least 1h a da
 - [x] Develop a counter. <br> <br>
 
 ## Challenge - Part 2
+<div>
+  <img src="https://user-images.githubusercontent.com/48757536/187251416-cc808041-dda9-49a1-b46d-bfa7a959bd28.jpg" width="200" height="200"/>
+
+<img src="https://user-images.githubusercontent.com/48757536/187252250-8649833a-8603-4e12-8f9e-26885b3b1586.jpg" width="200" height="200"/>
+</div>
 
 ### 📆 Day 8/21:
 
