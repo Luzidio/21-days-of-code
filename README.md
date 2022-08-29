@@ -46,7 +46,7 @@ Challenge created by RocketSeat🚀 that consists of coding for at least 1h a da
 
 ### 📆 Day 10/21:
 
-- [ ] Use the javascript Particle.js lib. <br> <br>
+- [x] Use the javascript Particle.js lib. <br> <br>
 
 ### 📆 Day 11/21:
 
