@@ -7,13 +7,18 @@
   font-family: 'Poppins';
   font-size: x-large;
 }
+:root {
+  --primary-color: #00f0b5;
+  --body-color: #011627;
+  --hover-color: #d7263d;
+}
 
 body {
   height: 100vh;
   display: flex;
   align-items: center;
   justify-content: center;
-  background-color: #f7f7f7;
+  background-color: var(--body-color);
 }
 
 main {
@@ -22,6 +27,8 @@ main {
   display: flex;
   flex-direction: column;
   gap: 15px;
+  border-radius: 25px;
+  background: #fff;
 }
 
 main > div {
@@ -33,23 +40,29 @@ main > div {
 input {
   padding: 5px;
   outline: none;
-  accent-color: blueviolet;
-  border-color: blueviolet;
+  border-radius: 20px;
+  accent-color: var(--primary-color);
+  border-color: var(--primary-color);
 }
 
-input[type=checkbox] {
+input[type='checkbox'] {
   width: 18px;
   height: 18px;
 }
 
-input[type=range] {
-  width: 90%;
+input[type='range'] {
+  width: 80%;
 }
 
 button {
-  background-color: blueviolet;
+  background-color: var(--primary-color);
   cursor: pointer;
   color: white;
   border: none;
   padding: 5px;
+  border-radius: 30px;
+}
+
+button:hover {
+  background: var(--hover-color);
 }
